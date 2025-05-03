@@ -1,0 +1,8 @@
+// This function adds two numbers and logs the result
+function addNumbers(a, b) {
+  let sum = a + b;
+  console.log("The sum is: " + sum);
+}
+
+// Call the function with example values
+addNumbers(5, 10);
